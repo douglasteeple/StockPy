@@ -1,0 +1,12 @@
+#!/bin/bash
+dir=$1
+if [[ "$dir" == "" ]]
+then
+        dir="."
+else
+        if [ ! -d $dir ]
+        then
+                mkdir -p $dir
+        fi
+fi
+python currentquotes.py ../uploads/Individual-Positions-2017-06-01-123026.CSV $1 $2
