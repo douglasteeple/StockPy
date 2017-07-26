@@ -40,30 +40,19 @@ The function `analyze_portfolio` analyzes the entire portfolio performance again
 
 Next I hope to add deep learning algorithms to further explore the possibilities of the use of AI in stock data analysis.
 
-## Sample plots
-
-![Bollinger Bands](images/AMZN.svg)
-
-***Bollinger Bands***
-
-![Daily Returns](images/AMZN_daily.svg)
-
-***Daily Returns***
-
-![Histogram](images/AMZN_histogram.svg)
-
-***Histogram***
-
-![YTD](images/AMZN_history.svg)
-
-***YTD Returns***
-
-![Scatter Plot](images/AMZN_scatter.svg)
-
-***Scatter Plot***
-
-![Returns History](images/AMZN_returns_history.svg)
-
-***Returns History***
+| ***Sample plots*** |
+|:-------------:|
+| ![Bollinger Bands](images/AMZN.png) |
+| ***Bollinger Bands*** |
+| ![Daily Returns](images/AMZN_daily.png) |
+| ***Daily Returns*** |
+| ![Histogram](images/AMZN_histogram.png) |
+| ***Histogram*** |
+| ![YTD](images/AMZN_history.png) |
+| ***YTD Returns*** |
+| ![Scatter Plot](images/AMZN_scatter.png) |
+| ***Scatter Plot*** |
+| ![Returns History](images/AMZN_returns_history.png) |
+| ***Returns History*** |
 
 
